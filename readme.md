@@ -1,3 +1,5 @@
+# sanmao
+[链接到百度](https://www.baidu.com "百度")  
 # 三毛作品
 
 ##[万水千山走遍](https://github.com/andyfishchina/sanmao/blob/master/%E4%B8%87%E6%B0%B4%E5%8D%83%E5%B1%B1%E8%B5%B0%E9%81%8D.txt)
